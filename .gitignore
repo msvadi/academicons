@@ -3,3 +3,4 @@ template*
 
 # Test files
 /test/
+.DS_Store
